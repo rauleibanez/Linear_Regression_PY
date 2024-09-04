@@ -4,7 +4,7 @@
 ## Welcome!
 
 Welcome to **Linear Regression with Python**. 
-In this course, we are going to focus on **two** objectives:
+In this project, we are going to focus on **two** objectives:
 
 - Create a linear model, and implement gradient descent.
 - Train the linear model to fit given data with gradient descent.
