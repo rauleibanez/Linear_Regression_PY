@@ -1,6 +1,7 @@
 # Linear Regression from Scratch in PythonOverview
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Version">
 
 Welcome to Linear Regression from Scratch, a foundational machine learning project developed in 2024 to master the core mathematics and implementation details of predictive modeling. Moving beyond high-level framework abstractions, this project builds a custom linear regression engine entirely from the ground up using core Python libraries.
 
